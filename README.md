@@ -1,6 +1,7 @@
 # django-db-views
 
 
+
 [![License](https://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)  
 [![PyPi](https://badge.fury.io/py/django-db-views.svg)](https://pypi.org/project/django-db-views/)  
 **Django Versions** 2.2 to 4.1  
